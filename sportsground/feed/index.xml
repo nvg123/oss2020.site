@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Комментарии: Спортивная площадка	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 04 Oct 2020 18:07:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+	<item>
+		<title>
+		Автор: Филипп		</title>
+		<link>./../index.html#comment-12</link>
+
+		<dc:creator><![CDATA[Филипп]]></dc:creator>
+		<pubDate>Sun, 04 Oct 2020 18:07:08 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=100#comment-12</guid>
+
+					<description><![CDATA[Поддерживаю верхний комментарий.
+По личной практике — на универсальных площадках баскетбольные кольца нужно располагать поперёк. Волейбольные столбы должны быть встроены в ограду (как в школьном зале). В текущей редакции на площадке можно играть в волейбол и хоккей зимой, всё остальное опасно.]]></description>
+			<content:encoded><![CDATA[<p>Поддерживаю верхний комментарий.<br />
+По личной практике — на универсальных площадках баскетбольные кольца нужно располагать поперёк. Волейбольные столбы должны быть встроены в ограду (как в школьном зале). В текущей редакции на площадке можно играть в волейбол и хоккей зимой, всё остальное опасно.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Автор: Алексей		</title>
+		<link>./../index.html#comment-2</link>
+
+		<dc:creator><![CDATA[Алексей]]></dc:creator>
+		<pubDate>Tue, 01 Sep 2020 18:40:31 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=100#comment-2</guid>
+
+					<description><![CDATA[Замечание к проекту спортивной площадки.
+Борты у спортивной площадки не позволят безопасно играть в баскетбол. Хоккейный борт расположен слишком близко к баскетбольному щиту. При игре в баскетбол есть большой риск получить травму.]]></description>
+			<content:encoded><![CDATA[<p>Замечание к проекту спортивной площадки.<br />
+Борты у спортивной площадки не позволят безопасно играть в баскетбол. Хоккейный борт расположен слишком близко к баскетбольному щиту. При игре в баскетбол есть большой риск получить травму.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

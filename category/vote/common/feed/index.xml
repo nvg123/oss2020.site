@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Общее имущество &#8212; ОСС 2020</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 02 Sep 2020 08:04:10 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>./../../../../wp-content/uploads/2020/08/cropped-android-chrome-512x512-1-32x32.png</url>
+	<title>Общее имущество &#8212; ОСС 2020</title>
+	<link>./../../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Размещение рекламы</title>
+		<link>./../../../../reklama/index.html</link>
+					<comments>./../../../../reklama/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 31 Aug 2020 09:04:23 +0000</pubDate>
+				<category><![CDATA[Общее имущество]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=75</guid>
+
+					<description><![CDATA[На что обратить внимание Пункт 2.1. Этим пунктом Вы разрешаете управляющей компании заниматься размещением рекламного оборудования на территории комплекса в местах общего пользования, в том числе, но не ограничиваясь: Антенны. Фактически означает возможность установки оборудования сотовых операторов на наших зданиях. Терминалы. Здесь возможны как вендинговые автоматы по продаже снеков, так и терминалы банков Рекламные стенды ....&#160;&#160;<a class=" special" href="./../../../../reklama/index.html">Дальше</a>]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><a href="./../../../../wp-content/uploads/2020/08/blank-ads.jpg" target="_blank" rel="noopener noreferrer"><img loading="lazy" width="1024" height="294" src="./../../../../wp-content/uploads/2020/08/blank-ads-1024x294.jpg" alt="" class="wp-image-76" srcset="./../../../../wp-content/uploads/2020/08/blank-ads-1024x294.jpg 1024w, ./../../../../wp-content/uploads/2020/08/blank-ads-300x86.jpg 300w, ./../../../../wp-content/uploads/2020/08/blank-ads-768x221.jpg 768w, ./../../../../wp-content/uploads/2020/08/blank-ads-830x239.jpg 830w, ./../../../../wp-content/uploads/2020/08/blank-ads-230x66.jpg 230w, ./../../../../wp-content/uploads/2020/08/blank-ads.jpg 1190w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h3>На что обратить внимание</h3>
+
+
+
+<ul><li><strong>Пункт 2.1.</strong> Этим пунктом Вы разрешаете <strong>управляющей компании</strong> заниматься размещением <strong>рекламного оборудования</strong> на территории комплекса в местах общего пользования, в том числе, <strong>но не ограничиваясь</strong>:<ul><li>Антенны. Фактически означает возможность установки оборудования сотовых операторов на наших зданиях.</li><li>Терминалы. Здесь возможны как вендинговые автоматы по продаже снеков, так и терминалы банков</li><li>Рекламные стенды на этажах внутри корпусов. </li></ul></li><li><strong>Пункт 2.1.</strong> Также этим пунктом Вы разрешаете управляющей компании <strong>сдавать в аренду</strong> помещения и части помещений общедомового имущества.<ul><li>Паркинг. Возможно сдать любую часть паркинга, не являющуюся машиноместом или кладовкой. Например, пространства рядом с машиноместами.</li><li>Технические и прочие помещения, например, под склады.</li></ul></li><li>Предполагаемая прибыль от таких размещений пойдет на благоустройство территории ЖК</li><li><strong>Пункт 2.2.</strong> Этим пунктом Вы назначаете <strong>УК ООО &#171;Смарт Восток</strong>&#187; принимать решение о том, где как и в каком объему будут размещены рекламные конструкции </li><li><strong>Пункт 2.3.</strong> Этим пунктом Вы <strong>разрешаете </strong>УК ООО &#171;Смарт Восток&#187; бороться с рекламой, которую разместили без их ведома. Например, УК может обоснованно убрать щиты с информацией от жителей, размещенные на L-этажах корпусов. И также препятствовать любому другому размещению информации жителей.</li></ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../reklama/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
